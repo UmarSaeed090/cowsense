@@ -1,0 +1,54 @@
+name: veteran
+description: "Veterinarian AI app built with Flutter and Firebase."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase core and authentication
+  firebase_core: ^3.13.0
+  cloud_firestore: ^5.6.6
+  firebase_auth: ^5.5.0
+  google_sign_in: ^6.2.1
+
+
+  shared_preferences: ^2.3.5
+  image_picker: ^1.1.2
+  google_fonts: ^6.2.1
+  fl_chart: ^0.66.2
+  lottie: ^3.2.0
+  font_awesome_flutter: ^10.8.0
+  flutter_onboarding_slider: ^1.0.11
+  cached_network_image: ^3.4.0
+  intl: ^0.19.0
+  connectivity_watcher: ^3.0.2  # Or the version you want to use
+
+  # UI/UX and icons
+  cupertino_icons: ^1.0.8
+
+  flutter_gemini: ^3.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Add asset/images here if needed
+  # assets:
+  #   - assets/images/logo.png
+  # Adding the assets section
+  assets:
+    - assets/avatar.jpg
+    - assets/splash.jpg
+    - assets/jsons/Cow-loader.json
+

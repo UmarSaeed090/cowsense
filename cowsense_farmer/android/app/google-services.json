@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "120771591745",
+    "firebase_url": "https://fyp-backend-672d5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fyp-backend-672d5",
+    "storage_bucket": "fyp-backend-672d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120771591745:android:c033b6003cafa17ee650c0",
+        "android_client_info": {
+          "package_name": "com.example.cowsense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120771591745-3gd8lbd8nrhdttmhl6l7734e8hnbsmcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cowsense",
+            "certificate_hash": "1d223c5370c11ff980d9776ccef308b06078d76d"
+          }
+        },
+        {
+          "client_id": "120771591745-8lrc7f430lojbff09jdc6nkb2jnt180i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0EIvTuaUEdgdd-NDCIttUVO442DCDwZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120771591745-8lrc7f430lojbff09jdc6nkb2jnt180i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "120771591745-8blkmn9rs4q3baf90es70j2qm51qu4l9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cowsense"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120771591745:android:5416b03af1590d78e650c0",
+        "android_client_info": {
+          "package_name": "com.mycompany.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120771591745-gshl861emk3d79035feuibeuepeggu5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.auth",
+            "certificate_hash": "f419b89cddd25b49072bd1367b852b0f6624839f"
+          }
+        },
+        {
+          "client_id": "120771591745-rgnrr7lrk0vvuf7elu9d4bdr5rjfol2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.auth",
+            "certificate_hash": "8c158a9ccde4b1eab4995cd493e85dad054a9e34"
+          }
+        },
+        {
+          "client_id": "120771591745-8lrc7f430lojbff09jdc6nkb2jnt180i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0EIvTuaUEdgdd-NDCIttUVO442DCDwZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120771591745-8lrc7f430lojbff09jdc6nkb2jnt180i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "120771591745-8blkmn9rs4q3baf90es70j2qm51qu4l9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cowsense"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
